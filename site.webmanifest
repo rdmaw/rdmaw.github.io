@@ -1,6 +1,6 @@
 {
-  "name": "redmaw.dev",
-  "short_name": "redmaw.dev",
+  "name": "redmaw.dev/",
+  "short_name": "redmaw.dev/",
   "icons": [
     {
       "src": "https://redmaw.dev/web-app-manifest-192x192.png",
